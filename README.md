@@ -1,2 +1,2 @@
 # hello-world
-este es solo un repositorio de pruebas para ver como es que funciona git.
+modificacion de un proyecto descargado
