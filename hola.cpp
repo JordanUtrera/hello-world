@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-	//no se 
+	//no se algo nuevo por aqui
 	cout<<"Hola mundo"<<endl;
 	return 0;
 }
